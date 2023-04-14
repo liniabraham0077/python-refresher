@@ -1,3 +1,6 @@
+# py data types
+# https://www.digitalocean.com/community/tutorials/python-data-types
+
 print("hello")
 
 a=3
